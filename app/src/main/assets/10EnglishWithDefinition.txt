@@ -1,0 +1,45 @@
+Game:A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.
+Simulation:The technique of representing the real world by a computer program.
+Animation:The technique of photographing successive drawings or positions of puppets or models to create an illusion of movement when the movie is shown as a sequence.
+Music:An art form and cultural activity whose medium is sound organized in time.
+Photoshop:To edit an image using a computer program.
+Dream:To pursue the goal you are dreaming of.
+Hall of Fame:A hall, wall, or walk of fame is a list of individuals, achievements, or animals, usually chosen by a group of electors, to mark their fame in their field.
+Dictionary:A reference source in print or electronic form containing words usually alphabetically arranged along with information about their forms, pronunciations, functions, etymologies, meanings, and syntactic and idiomatic uses.
+SideKick:A person's assistant or close associate, especially one who has less authority than that person.
+Facebook:A popular free social networking website that allows registered users to create profiles, upload photos and video, send messages and keep in touch with friends, family and colleagues.
+Advertisement:A notice or announcement in a public medium promoting a product, service, or event or publicizing a job vacancy.l
+League of Legends:A multiplayer online battle arena video game developed and published bu Riot Games for Microsoft Windows and macOS.
+Halloween:The night of October 31, the eve of All Saints' Day, commonly celebrated by children who dress in costume and solicit candy or other treats door-to-door.
+Storytelling:The activity of telling or writing stories.
+Director:A person who is in charge of an activity, department, or organization.
+Debug:Identify and remove errors from computer hardware or software.
+Duplicate:Exactly like something else, especially through having been copied.
+Dimension:A measurable extent of some kind, such as length, breadth, depth, or height.
+Object:A material thing that can be seen and touched.
+Memory:The mental capacity or  faculty of retaining and reviving facts, events, impression or of recalling or recognizing previous experiences.
+Abstract:Relating to or involving general ideas or qualities rather than specific people, objects, or actions.
+Bankrupt:Unable to pay debts, a person who is lacking in a particular thing or quality.
+Cage:A box made of wire or metal bars in which people keep animals or birds.
+Dance:To move your body in a way that goes with the rhythm and style of music that is being played.
+Economy:The process or system by which good and services are produced, sold, and bough in a country or region.
+Fabric:Woven or knitted material.
+Generous:Freely giving or sharing money and other valuable things.
+Hardware:Equipment used for a particular purpose.
+Impact:The act or force of one thing hitting another. A powerful or major influence or effect.
+Jacket:A piece of clothing that is worn on your upper bofy over another piece of clothing.
+Kindness:Friendly feeling; liking. The state or quality of being kind.
+Language:The system of words or signs that people use to express thoughts and feelings to each other.
+Machine:A piece of equipment with moving parts that does work when it is given power from electricity,gasoline, etc.
+Negligence:Failure to take the care that a responsible person usually takes. Lack of normal care or attention.
+Oath:A formal and serious promise to tell the truth or to do something.
+Painter:A person whose job it is to paint walls, houses, etc.
+Qualification:Something that is necessary in order for you to do, have, or be part of something.
+Rage:A strong feeling of anger that is difficult ro control.
+Sarcastic:using or showing sarcasm.
+Teammate:A person who is on the same team as someone else.
+Underdog:A person, team, etc., that is expected to lose a contest or battle.
+Victory:Success in defeating an opponent or enemy.
+Wander:To move around or to go different places usually without having a particular purpoe or direction.
+Yesterday:The day before today.
+Zero:Nothing at all.

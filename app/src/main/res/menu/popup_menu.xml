@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/easy"
+                android:title="Easy Difficulty"/>
+            <item
+                android:id="@+id/med"
+                android:title="Medium Difficulty"/>
+            <item
+                android:id="@+id/hard"
+                android:title="Hard difficulty"/>
+            <item
+                android:id="@+id/random"
+                android:title="Random Difficulty"/>
+            <item
+                android:id="@+id/streak"
+                android:title="Streak Difficulty"/>
+            <item
+                android:id="@+id/save"
+                android:title="Save score"/>
+            <item
+                android:id="@+id/load"
+                android:title="Load score"/>
+            <item
+                android:id="@+id/clear"
+                android:title="Clear score"/>
+            <item
+                android:id="@+id/white"
+                android:title="White"/>
+            <item
+                android:id="@+id/cyan"
+                android:title="Cyan"/>
+            <item
+                android:id="@+id/purple"
+                android:title="Purple"/>
+        </menu>
+    </item>
+    <item android:id="@+id/help"
+        android:title="Help" />
+</menu>
