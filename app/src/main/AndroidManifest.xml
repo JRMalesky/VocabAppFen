@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.darkness7245.vocabapp">
+    package="com.firebaseFen.fenapp.vocabapp">
+    
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+
+
+   
 
     <application
         android:allowBackup="true"
@@ -9,16 +15,38 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GameActivity">
+        <activity android:name="com.firebaseFen.fenapp.vocabapp.LogIn">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
-        
-        <activity android:name=".Pop"/>
+        <activity android:name="com.firebaseFen.fenapp.vocabapp.GameActivity"/>
+        <activity android:name="com.firebaseFen.fenapp.vocabapp.MainActivity"
+                  android:parentActivityName="com.firebaseFen.fenapp.vocabapp.GameActivity"
+            />
+
+
+        <activity android:name="com.firebaseFen.fenapp.vocabapp.ForgotPassword"/>
+        <activity android:name="com.firebaseFen.fenapp.vocabapp.Pop" />
+        <activity android:name="com.firebaseFen.fenapp.vocabapp.SignUp"
+            android:parentActivityName="com.firebaseFen.fenapp.vocabapp.GameActivity"/>
+
+        <activity
+            android:name="com.firebaseFen.fenapp.vocabapp.MySetting"
+            android:label="Settings"
+            android:parentActivityName="com.firebaseFen.fenapp.vocabapp.MainActivity">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.firebaseFen.fenapp.vocabapp.MainActivity" />
+        </activity>
+
+
+
+
+
     </application>
 
 </manifest>

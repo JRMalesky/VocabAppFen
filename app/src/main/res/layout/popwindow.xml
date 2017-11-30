@@ -22,6 +22,6 @@
         tools:layout_constraintLeft_creator="1"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintTop_creator="1"
-        android:text="Credit: \n\nFull Sail University\nFen Li\nSean Ermish"
+        android:text="Credit: \n\nFull Sail University\nFen Li\n"
         app:layout_constraintHorizontal_bias="0.056" />
 </android.support.constraint.ConstraintLayout>

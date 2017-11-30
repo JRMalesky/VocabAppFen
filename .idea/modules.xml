@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VocabApp.iml" filepath="$PROJECT_DIR$/VocabApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VocabAppFen.iml" filepath="$PROJECT_DIR$/VocabAppFen.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
